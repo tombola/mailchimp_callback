@@ -1,8 +1,9 @@
 ## One off list subscriber
 
-- `composer install`
-- Add mailchimp api key and list id to config.php (see config.example.php)
-- Pass email, fname and lname via post.
+1. `composer install`
+2. Add mailchimp api key and list id to config.php (see config.example.php)
+3. Pass email, fname and lname via post.
 
-To get api key see mailchimp account > extras > api keys
-To get list id see mailchimp ui: lists > mylist >'listname and campaign defaults
+_To get api key see mailchimp account > extras > api keys_
+
+_To get list id see mailchimp ui: lists > mylist >'listname and campaign defaults_
